@@ -1,6 +1,6 @@
 # TelecomsXChange (TCXC) Feature Requests Roadmap
 
-TCXC members community feature requests.
+You can submit feature request in this public repo, you may also view our [Roadmap](https://github.com/telecomsxchange/feature_requests/projects/1) to learn more about our current working status.
 
 We're moving feature requests repo to the public. 
 
